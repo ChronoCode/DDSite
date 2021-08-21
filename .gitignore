@@ -1,1 +1,2 @@
 ## Contains file names that should not be uploaded to Github
+node_modules
